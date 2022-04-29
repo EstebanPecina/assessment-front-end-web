@@ -1,11 +1,3 @@
-// class buttons {
-//     constructor(color,fontSize){
-//     this.color = blue;
-//     this.fontSize = 10;
-//     }
-// }
-
-
 function favoriteColor() {
     alert("Red")
 }

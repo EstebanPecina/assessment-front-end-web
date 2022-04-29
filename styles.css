@@ -36,3 +36,7 @@ input {
 img {
 	max-width: 300px;
 }
+
+.buttons {background-color: red;}
+
+.buttons {font-size: 20px;}
